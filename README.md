@@ -8,5 +8,5 @@ non-commercial things I have built. the rest is on [igorklymenko.com](https://ww
 <p>
 <a href="https://github.com/IgorKlymenko/drone-warehouse-mapping"><img src="img/card-warehouse.webp" width="32%" alt="Warehouse aisle stitched and measured from drone video" title="Warehouse aisle stitched and measured from drone video, 2024"></a>
 <a href="https://github.com/IgorKlymenko/drone-thermal-landmine-detection"><img src="img/card-landmine.webp" width="32%" alt="Landmines spotted in drone thermal imagery" title="Landmines spotted in drone thermal imagery, 2025"></a>
-<a href="https://globalteacherprize.org/pages/igor-klymenko-2022"><img src="img/card-prize.webp" width="32%" alt="Global Student Prize 2022, for a drone that finds landmines" title="Global Student Prize 2022, for a drone that finds landmines"></a>
+<a href="https://globalteacherprize.org/pages/igor-klymenko-2022"><img src="img/card-prize.webp" width="32%" alt="A drone that finds landmines, Global Student Prize 2022" title="A drone that finds landmines, Global Student Prize 2022"></a>
 </p>
