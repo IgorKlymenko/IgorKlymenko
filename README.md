@@ -1,12 +1,12 @@
 non-commercial things I have built. the rest is on [igorklymenko.com](https://www.igorklymenko.com/)
 
 <p>
-<a href="https://github.com/IgorKlymenko/graph-based-search-engine"><img src="img/card-graph.webp" width="32%" alt="Graph search engine over Slack with cited answers" title="Graph search engine over Slack with cited answers, 2026"></a>
-<a href="https://github.com/IgorKlymenko/video-to-labeled-3d"><img src="img/card-3d.webp" width="32%" alt="Phone video to a labelled 3D scene" title="Phone video to a labelled 3D scene, 2026"></a>
-<a href="https://github.com/IgorKlymenko/robot-joystick-from-foundation-model"><img src="img/card-robot.webp" width="32%" alt="A 14-joint robot arm steered from a game controller" title="A 14-joint robot arm steered from a game controller, 2025"></a>
+<a href="https://github.com/IgorKlymenko/graph-based-search-engine"><img src="img/card-graph-325822.webp" width="32%" alt="Graph search engine over Slack with cited answers" title="Graph search engine over Slack with cited answers, 2026"></a>
+<a href="https://github.com/IgorKlymenko/video-to-labeled-3d"><img src="img/card-3d-6f7fe7.webp" width="32%" alt="Phone video to a labelled 3D scene" title="Phone video to a labelled 3D scene, 2026"></a>
+<a href="https://github.com/IgorKlymenko/robot-joystick-from-foundation-model"><img src="img/card-robot-3cc383.webp" width="32%" alt="A 14-joint robot arm steered from a game controller" title="A 14-joint robot arm steered from a game controller, 2025"></a>
 </p>
 <p>
-<a href="https://github.com/IgorKlymenko/drone-warehouse-mapping"><img src="img/card-warehouse.webp" width="32%" alt="Warehouse aisle stitched and measured from drone video" title="Warehouse aisle stitched and measured from drone video, 2024"></a>
-<a href="https://github.com/IgorKlymenko/drone-thermal-landmine-detection"><img src="img/card-landmine.webp" width="32%" alt="Landmines spotted in drone thermal imagery" title="Landmines spotted in drone thermal imagery, 2025"></a>
-<a href="https://globalteacherprize.org/pages/igor-klymenko-2022"><img src="img/card-prize.webp" width="32%" alt="A drone that finds landmines, Global Student Prize 2022" title="A drone that finds landmines, Global Student Prize 2022"></a>
+<a href="https://github.com/IgorKlymenko/drone-warehouse-mapping"><img src="img/card-warehouse-d77e03.webp" width="32%" alt="Warehouse aisle stitched and measured from drone video" title="Warehouse aisle stitched and measured from drone video, 2024"></a>
+<a href="https://github.com/IgorKlymenko/drone-thermal-landmine-detection"><img src="img/card-landmine-dc838c.webp" width="32%" alt="Landmines spotted in drone thermal imagery" title="Landmines spotted in drone thermal imagery, 2025"></a>
+<a href="https://globalteacherprize.org/pages/igor-klymenko-2022"><img src="img/card-prize-289608.webp" width="32%" alt="A drone that finds landmines, Global Student Prize 2022" title="A drone that finds landmines, Global Student Prize 2022"></a>
 </p>
