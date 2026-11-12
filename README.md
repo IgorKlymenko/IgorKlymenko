@@ -1,4 +1,4 @@
-Things I have built. The rest is on [igorklymenko.com](https://www.igorklymenko.com/).
+non-commercial things I have built. the rest is on [igorklymenko.com](https://www.igorklymenko.com/)
 
 <p>
 <a href="https://github.com/IgorKlymenko/graph-based-search-engine"><img src="img/card-graph.webp" width="32%" alt="Graph search engine over Slack with cited answers" title="Graph search engine over Slack with cited answers, 2026"></a>
