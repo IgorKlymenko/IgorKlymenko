@@ -1,5 +1,3 @@
-# Igor Klymenko
-
 Things I have built. The rest is on [igorklymenko.com](https://www.igorklymenko.com/).
 
 <p>
